@@ -6,7 +6,7 @@ This repository contains a sample match-3 game RL environment. The environment i
 
 The environment can either be used as a Unity ML-Agents environment or as a Gym environment using wrappers.
 
-The environment reward can be configured using a configurating file. The objective of this environment is to maximize the number of matches of tiles.
+The environment reward can be configured using a configurating file. The objective of this environment is to maximize the number of matches in limited number of actions which in this case is 15 actions.
 
 ## Requirements
 
